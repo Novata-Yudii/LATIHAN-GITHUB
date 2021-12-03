@@ -1,0 +1,6 @@
+  *TUTORIAL 2
+-Membuat github
+-Membuat repository
+-Belajar branch
+-merge
+-Mencoba coba sendiri
