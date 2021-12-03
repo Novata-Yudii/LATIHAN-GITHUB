@@ -1,0 +1,7 @@
+ *TUTORIAL 1
+-Membuat akun github
+-Mengganti foto profil
+-Membuat repository
+-Berlatih coomit
+-Branch
+-Merge
