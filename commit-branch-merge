@@ -1,0 +1,10 @@
+ *PENJELASAN MENGENAI BRANCH !
+1)Master Branch (Jalan utama).
+2)Branch adalah sebuah cabang dari cabang utama.
+3)Merge adalah sebuah penggabungan antara branch
+
+ *FUNGSI BRANCH DAN MERGE
+1)Agar tidak mengganggu jalur utama.
+2)Untuk melakukan eksperimen diluar master branch.
+3)Untuk colaborasi antar tim.
+4)Merge untuk menggabungkan antara branch.
